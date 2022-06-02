@@ -1,0 +1,13 @@
+Explain abstract class and interface with an example.
+ABSTRACT CLASS :-
+Any class which is declared as abstract is known as abstract class.
+We cannot create object of an abstract class.
+An abstract class can have abstract methods or non-abstract methods or a combination of both.
+An abstract class need to be extended.
+With abstract class, we can achieve partial abstraction (0%to 100%).
+We make an class as abstract when we do not want that class' object to get created directly.
+
+INTERFACE :-
+Interface is like a blueprint of classes.
+We use interface, when we want to get full abstraction, i.e. 100% abstraction.
+In interface methods are by default abstract and public.
